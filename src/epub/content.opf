@@ -51,6 +51,7 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56644</dc:source>
+		<dc:source>https://archive.org/details/bulfinchsmytholo1913bulf</dc:source>
 		<meta property="se:production-notes">Do NOT allow modernize-spelling changes to the pronunciation guides in glossary.xhtml.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
