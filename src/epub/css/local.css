@@ -58,9 +58,7 @@ p span.i4{
 	padding-left: 5em;
 }
 
-cite{
-	margin-top: 1em;
-	font-style: normal;
+blockquote cite{
 	font-variant: small-caps;
 }
 
