@@ -59,7 +59,11 @@ p span.i4{
 }
 
 blockquote cite{
-	font-variant: small-caps;
+	font-style: normal;
+}
+
+blockquote cite i{
+	font-style: italic;
 }
 
 dt{
