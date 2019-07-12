@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-bulfinch/bulfinchs-mythology</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-07-12T21:12:52Z</dc:date>
+		<meta property="dcterms:modified">2019-07-12T21:12:52Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,7 +34,7 @@
 		<dc:subject id="subject-3">Charlemagne, Emperor, 742-814 -- Romances -- Adaptations</dc:subject>
 		<dc:subject id="subject-4">Romances</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">sh85089371</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85050116</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
@@ -46,15 +46,15 @@
 		<dc:description id="description">An American classicist collects and explains myths and legends ranging from those of the ancient Greeks and Romans, through stories of King Arthur, to the legends of Charlemagne.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Thomas Bulfinch was an American banker and Latin scholar. &lt;i&gt;Bulfinch’s Mythology&lt;/i&gt; is a posthumous compilation of three volumes published by Bulfinch during his lifetime which were intended to introduce the general reader to the myths and legends of Western Civilization by presenting them in simple prose with occasional commentary by the author. Bulfinch also includes many quotations showing how these stories have been handled by poets and playwrights of later years.&lt;/p&gt;
-			&lt;p&gt;The three original volumes are &lt;i&gt;The Age of Fable&lt;/i&gt; (1855), dealing largely with Greek and Roman mythology but also touching on the mythology of other cultures such as the Indian, Egyptian and Norse myths; &lt;i&gt;The Age of Chivalry&lt;/i&gt; (1858), dealing with Arthurian legend, the Holy Grail and the Mabinogeon; and &lt;i&gt;Legends of Charlemagne&lt;/i&gt; (1863), dealing with the fantastical legends surrounding Charlemagne and his ‘paladins’ such as Orlando, Oliver and Rogero.&lt;/p&gt;
-			&lt;p&gt;The combined volume entitled &lt;i&gt;Bulfinch’s Mythology&lt;/i&gt; quickly became very popular, indeed by some accounts it is one of the most popular books ever published in the United States.&lt;/p&gt;
+			&lt;p&gt;The three original volumes are &lt;i&gt;The Age of Fable&lt;/i&gt; (1855), dealing largely with Greek and Roman mythology but also touching on the mythology of other cultures such as the Indian, Egyptian and Norse myths; &lt;i&gt;The Age of Chivalry&lt;/i&gt; (1858), dealing with Arthurian legend, the Holy Grail and the Mabinogeon; and &lt;i&gt;Legends of Charlemagne&lt;/i&gt; (1863), dealing with the fantastical legends surrounding Charlemagne and his “paladins” such as Orlando, Oliver and Rogero.&lt;/p&gt;
+			&lt;p&gt;The combined volume entitled &lt;i&gt;Bulfinch’s Mythology&lt;/i&gt; quickly became very popular, and by some accounts it is one of the most popular books ever published in the United States.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56644</dc:source>
 		<dc:source>https://archive.org/details/bulfinchsmytholo1913bulf</dc:source>
 		<meta property="se:production-notes">Do NOT allow modernize-spelling changes to the pronunciation guides in glossary.xhtml.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">329627</meta>
+		<meta property="se:reading-ease.flesch">66.37</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Bulfinch%27s_Mythology</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-bulfinch_bulfinchs-mythology</meta>
 		<dc:creator id="author">Thomas Bulfinch</dc:creator>
@@ -75,7 +75,7 @@
 		<dc:contributor id="transcriber-2">Cindy Beyer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Beyer, Cindy</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreaders Canada team at http://www.pgdpcanada.net with images provided by The Internet Archives-US</dc:contributor>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreaders Canada</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreaders Canada, The</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">David Grigg</dc:contributor>
@@ -88,6 +88,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
