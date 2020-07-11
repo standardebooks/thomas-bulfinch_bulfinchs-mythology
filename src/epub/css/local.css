@@ -71,14 +71,8 @@ blockquote cite i{
 	font-style: italic;
 }
 
-dt{
-	margin-top: 0.5em;
-	font-variant: small-caps;
-}
-
-dd{
-	margin-bottom: 0.5em;
-	margin-left: 0.5em;
+dd + dt{
+	margin-top: 1em;
 }
 
 figure.full-page{
