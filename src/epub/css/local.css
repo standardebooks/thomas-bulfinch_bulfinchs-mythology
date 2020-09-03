@@ -5,11 +5,6 @@ abbr.era{
 	font-variant: small-caps;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="z3998:verse"] header p{
 	text-align: center;
 	font-variant: small-caps;
