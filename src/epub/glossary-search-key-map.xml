@@ -874,12 +874,12 @@
 		<match value="celt">
 			<value value="celtic"/>
 			<value value="celts"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#centaurs">
 		<match value="centaur">
 			<value value="centaurs"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cephalus">
 		<match value="cephalus"/>
@@ -914,7 +914,7 @@
 	<search-key-group href="text/glossary.xhtml#charles-martel">
 		<match value="martel">
 			<value value="charles martel"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#charlot">
 		<match value="charlot"/>
@@ -988,7 +988,7 @@
 	<search-key-group href="text/glossary.xhtml#cockatrice-or-basilisk">
 		<match value="cockatrice">
 			<value value="basilisk"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cocytus">
 		<match value="cocytus"/>
@@ -1020,7 +1020,7 @@
 	<search-key-group href="text/glossary.xhtml#cornucopia-of-achelous">
 		<match value="cornucopia">
 			<value value="cornucopia of achelous"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cornwall">
 		<match value="cornwall"/>
@@ -1037,7 +1037,7 @@
 	<search-key-group href="text/glossary.xhtml#cranes-and-their-enemies">
 		<match value="crane">
 			<value value="cranes"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#creon">
 		<match value="creon"/>
@@ -1066,7 +1066,7 @@
 	<search-key-group href="text/glossary.xhtml#cumaean-sibyl">
 		<match value="cumaean">
 			<value value="cumaean sibyl"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cupid">
 		<match value="cupid"/>
@@ -1080,12 +1080,12 @@
 	<search-key-group href="text/glossary.xhtml#cybele-rhea">
 		<match value="cybele">
 			<value value="cybele rhea"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cyclopes">
 		<match value="cyclopes">
 			<value value="cyclops"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cymbeline">
 		<match value="cymbeline"/>
@@ -1096,7 +1096,7 @@
 	<search-key-group href="text/glossary.xhtml#cynthian-mountain-top">
 		<match value="cynthia">
 			<value value="cynthian"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cyprus">
 		<match value="cyprus"/>
@@ -1143,7 +1143,7 @@
 	<search-key-group href="text/glossary.xhtml#daystar-hesperus">
 		<match value="daystar">
 			<value value="daystar hesperus"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#death">
 		<match value="death"/>
@@ -1181,7 +1181,7 @@
 	<search-key-group href="text/glossary.xhtml#diana-artemis">
 		<match value="diana">
 			<value value="diana artemis"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#diana-of-the-hind">
 		<match value="diana of the hind"/>
@@ -1219,7 +1219,7 @@
 	<search-key-group href="text/glossary.xhtml#dolphin">
 		<match value="dolphin">
 			<value value="dolphins"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dorceus">
 		<match value="dorceus"/>
@@ -1233,12 +1233,12 @@
 	<search-key-group href="text/glossary.xhtml#druids">
 		<match value="druid">
 			<value value="druids"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dryades-or-dryads">
 		<match value="dryades">
 			<value value="dryads"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dryope">
 		<match value="dryope"/>
@@ -1252,7 +1252,7 @@
 	<search-key-group href="text/glossary.xhtml#dunwallo-molmutius">
 		<match value="dunwallo">
 			<value value="molmutius"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#durindana">
 		<match value="durindana"/>
@@ -1260,7 +1260,7 @@
 	<search-key-group href="text/glossary.xhtml#ebudians">
 		<match value="ebudian">
 			<value value="ebudians"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#echo">
 		<match value="echo"/>
@@ -1271,7 +1271,7 @@
 	<search-key-group href="text/glossary.xhtml#eddas">
 		<match value="edda">
 			<value value="eddas"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ederyn">
 		<match value="ederyn"/>
@@ -1291,7 +1291,7 @@
 	<search-key-group href="text/glossary.xhtml#eleusinian-mysteries">
 		<match value="eleusinian">
 			<value value="eleusinian mysteries"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#eleusis">
 		<match value="eleusis"/>
@@ -1299,7 +1299,7 @@
 	<search-key-group href="text/glossary.xhtml#elgin-marbles">
 		<match value="elgin">
 			<value value="elgin marbles"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#eliaures">
 		<match value="eliaures"/>
@@ -1325,7 +1325,7 @@
 	<search-key-group href="text/glossary.xhtml#elysian-fields">
 		<match value="elysian">
 			<value value="elysian fields"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#elysian-plain">
 		<match value="elysian plain"/>
@@ -1378,7 +1378,7 @@
 	<search-key-group href="text/glossary.xhtml#erinys-pl-erinnyes">
 		<match value="erinys">
 			<value value="erinnyes"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#eriphyle">
 		<match value="eriphyle"/>
@@ -1386,7 +1386,7 @@
 	<search-key-group href="text/glossary.xhtml#eris-discordia">
 		<match value="eris">
 			<value value="discordia"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#erisichthon">
 		<match value="erisichthon"/>
@@ -1412,7 +1412,7 @@
 	<search-key-group href="text/glossary.xhtml#etruscans">
 		<match value="etruscan">
 			<value value="etruscans"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#etzel">
 		<match value="etzel"/>
@@ -1465,7 +1465,7 @@
 	<search-key-group href="text/glossary.xhtml#euxine-sea">
 		<match value="euxine">
 			<value value="euxine sea"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#evadne">
 		<match value="evadne"/>
@@ -1500,17 +1500,17 @@
 	<search-key-group href="text/glossary.xhtml#fata-morgana">
 		<match value="fata">
 			<value value="fata morgana"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#fates">
 		<match value="fate">
 			<value value="fates"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#fauns">
 		<match value="faun">
 			<value value="fauns"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#faunus">
 		<match value="faunus"/>
@@ -1536,7 +1536,7 @@
 	<search-key-group href="text/glossary.xhtml#fireworshippers">
 		<match value="fireworshipper">
 			<value value="fireworshippers"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#flollo">
 		<match value="flollo"/>
@@ -1601,7 +1601,7 @@
 	<search-key-group href="text/glossary.xhtml#gaea">
 		<match value="gaea">
 			<value value="earth"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gahariet">
 		<match value="gahariet"/>
@@ -1633,7 +1633,7 @@
 	<search-key-group href="text/glossary.xhtml#ganelon-of-mayence">
 		<match value="ganelon">
 			<value value="ganelon of mayence"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ganges">
 		<match value="ganges"/>
@@ -1692,17 +1692,17 @@
 	<search-key-group href="text/glossary.xhtml#giallar-horn">
 		<match value="giallar">
 			<value value="giallar horn"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#giants">
 		<match value="giant">
 			<value value="giants"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gibichung-race">
 		<match value="gibichung">
 			<value value="gibichung race"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gibraltar">
 		<match value="gibraltar"/>
@@ -1761,7 +1761,7 @@
 	<search-key-group href="text/glossary.xhtml#graces">
 		<match value="grace">
 			<value value="graces"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gradasso">
 		<match value="gradasso"/>
@@ -1784,7 +1784,7 @@
 	<search-key-group href="text/glossary.xhtml#gryphon-griffin">
 		<match value="gryphon">
 			<value value="griffin"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#guebers">
 		<match value="guebers"/>
@@ -1861,7 +1861,7 @@
 	<search-key-group href="text/glossary.xhtml#hamadryads">
 		<match value="hamadryad">
 			<value value="hamadryads"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#harmonia">
 		<match value="harmonia"/>
@@ -1923,7 +1923,7 @@
 	<search-key-group href="text/glossary.xhtml#helicon">
 		<match value="helicon">
 			<value value="hippocrene"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#helioopolis">
 		<match value="helioopolis"/>
@@ -1955,7 +1955,7 @@
 	<search-key-group href="text/glossary.xhtml#hermes-mercury">
 		<match value="hermes">
 			<value value="mercury"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#hermione">
 		<match value="hermione"/>
@@ -2083,7 +2083,7 @@
 	<search-key-group href="text/glossary.xhtml#hyperboreans">
 		<match value="hyperborean">
 			<value value="hyperboreans"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#hyperion">
 		<match value="hyperion"/>
@@ -2097,7 +2097,7 @@
 	<search-key-group href="text/glossary.xhtml#iapetus">
 		<match value="iapetus">
 			<value value="japhet"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#iasius">
 		<match value="iasius"/>
@@ -2195,7 +2195,7 @@
 	<search-key-group href="text/glossary.xhtml#ionian-sea">
 		<match value="ionian">
 			<value value="ionian sea"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#iphigenia">
 		<match value="iphigenia"/>
@@ -2287,7 +2287,7 @@
 	<search-key-group href="text/glossary.xhtml#jove-zeus">
 		<match value="jove">
 			<value value="zeus"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#joyous-garde">
 		<match value="joyous garde"/>
@@ -2409,7 +2409,7 @@
 	<search-key-group href="text/glossary.xhtml#launcelot">
 		<match value="launcelot">
 			<value value="lancelot"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lausus">
 		<match value="lausus"/>
@@ -2495,7 +2495,7 @@
 	<search-key-group href="text/glossary.xhtml#little-bear">
 		<match value="little bear">
 			<value value="ursa minor"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#llyr">
 		<match value="llyr"/>
@@ -2530,7 +2530,7 @@
 	<search-key-group href="text/glossary.xhtml#lotuseaters">
 		<match value="lotuseater">
 			<value value="lotuseaters"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#love-eros-issued-from-egg-of-night">
 		<match value="love"/>
@@ -2610,12 +2610,12 @@
 	<search-key-group href="text/glossary.xhtml#malagigi-the-enchanter">
 		<match value="malagigi">
 			<value value="malagigi the enchanter"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#maleagans">
 		<match value="maleagan">
 			<value value="maleagans"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#malvasius">
 		<match value="malvasius"/>
@@ -2674,7 +2674,7 @@
 	<search-key-group href="text/glossary.xhtml#mediterranean-sea">
 		<match value="mediterranean">
 			<value value="mediterranean sea"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#medoro">
 		<match value="medoro"/>
@@ -2829,7 +2829,7 @@
 	<search-key-group href="text/glossary.xhtml#morgane-le-fay">
 		<match value="morgan le fay">
 			<value value="morgane le fay"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#morgan-tud">
 		<match value="morgan tud"/>
@@ -2840,7 +2840,7 @@
 	<search-key-group href="text/glossary.xhtml#morte-darthur">
 		<match value="morte d’arthur">
 			<value value="morte d'arthur"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mulciber">
 		<match value="mulciber"/>
@@ -2857,7 +2857,7 @@
 	<search-key-group href="text/glossary.xhtml#muses">
 		<match value="muse">
 			<value value="muses"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#muspelheim">
 		<match value="muspelheim"/>
@@ -2871,7 +2871,7 @@
 	<search-key-group href="text/glossary.xhtml#myrmidons">
 		<match value="myrmidon">
 			<value value="myrmidons"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mysia">
 		<match value="mysia"/>
@@ -2882,7 +2882,7 @@
 	<search-key-group href="text/glossary.xhtml#naiads">
 		<match value="naiad">
 			<value value="naiads"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#namo">
 		<match value="namo"/>
@@ -2947,7 +2947,7 @@
 	<search-key-group href="text/glossary.xhtml#nereids">
 		<match value="nereid">
 			<value value="nereids"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#nereus">
 		<match value="nereus"/>
@@ -2970,7 +2970,7 @@
 	<search-key-group href="text/glossary.xhtml#nibelungs">
 		<match value="nibelung">
 			<value value="nibelungs"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#nidhogge">
 		<match value="nidhogge"/>
@@ -3005,7 +3005,7 @@
 	<search-key-group href="text/glossary.xhtml#norns">
 		<match value="norn">
 			<value value="norns"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#nothung">
 		<match value="nothung"/>
@@ -3022,7 +3022,7 @@
 	<search-key-group href="text/glossary.xhtml#nymphs">
 		<match value="nymph">
 			<value value="nymphs"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#nysaean-nymphs">
 		<match value="nysaean nymphs"/>
@@ -3078,7 +3078,7 @@
 	<search-key-group href="text/glossary.xhtml#olympiads">
 		<match value="olympiad">
 			<value value="olympiads"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#olympian-games">
 		<match value="olympian games"/>
@@ -3098,7 +3098,7 @@
 	<search-key-group href="text/glossary.xhtml#oracles">
 		<match value="oracle">
 			<value value="oracles"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#orc">
 		<match value="orc"/>
@@ -3118,7 +3118,7 @@
 	<search-key-group href="text/glossary.xhtml#orlando">
 		<match value="orlando">
 			<value value="roland"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ormuzd-greek">
 		<match value="ormuzd greek"/>
@@ -3153,14 +3153,14 @@
 	<search-key-group href="text/glossary.xhtml#pagans">
 		<match value="pagan">
 			<value value="pagans"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#paladins-or-peers">
 		<match value="paladin">
 			<value value="paladins"/>
 			<value value="peer"/>
 			<value value="peers"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#palaemon">
 		<match value="palaemon"/>
@@ -3198,7 +3198,7 @@
 	<search-key-group href="text/glossary.xhtml#pandora-allgifted">
 		<match value="pandora">
 			<value value="allgifted"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pandrasus">
 		<match value="pandrasus"/>
@@ -3221,7 +3221,7 @@
 	<search-key-group href="text/glossary.xhtml#pariahs">
 		<match value="pariah">
 			<value value="pariahs"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#paris">
 		<match value="paris"/>
@@ -3235,7 +3235,7 @@
 	<search-key-group href="text/glossary.xhtml#parsees">
 		<match value="parsee">
 			<value value="parsees"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#parthenon">
 		<match value="parthenon"/>
@@ -3366,7 +3366,7 @@
 	<search-key-group href="text/glossary.xhtml#phoenicians">
 		<match value="phoenician">
 			<value value="phoenicians"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#phoenix">
 		<match value="phoenix"/>
@@ -3386,7 +3386,7 @@
 	<search-key-group href="text/glossary.xhtml#pillars-of-hercules">
 		<match value="pillars of hercules">
 			<value value="straits of gibraltar"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pindar">
 		<match value="pindar"/>
@@ -3461,7 +3461,7 @@
 		<match value="porrex and ferrex">
 			<value value="porrex"/>
 			<value value="ferrex"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#portunus">
 		<match value="portunus"/>
@@ -3526,7 +3526,7 @@
 	<search-key-group href="text/glossary.xhtml#pygmies">
 		<match value="pygmy">
 			<value value="pygmies"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pylades">
 		<match value="pylades"/>
@@ -3558,7 +3558,7 @@
 	<search-key-group href="text/glossary.xhtml#quirinus-from-quiris">
 		<match value="quirinus">
 			<value value="quiris"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#rabican">
 		<match value="rabican"/>
@@ -3596,7 +3596,7 @@
 	<search-key-group href="text/glossary.xhtml#rhinemaidens">
 		<match value="rhinemaiden">
 			<value value="rhinemaidens"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#rhodes">
 		<match value="rhodes"/>
@@ -3637,7 +3637,7 @@
 	<search-key-group href="text/glossary.xhtml#romances">
 		<match value="romance">
 			<value value="romances"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#romanus">
 		<match value="romanus"/>
@@ -3663,7 +3663,7 @@
 	<search-key-group href="text/glossary.xhtml#rutulians">
 		<match value="rutulian">
 			<value value="rutulians"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ryence">
 		<match value="ryence"/>
@@ -3680,7 +3680,7 @@
 	<search-key-group href="text/glossary.xhtml#sagas">
 		<match value="saga">
 			<value value="sagas"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sagittarius">
 		<match value="sagittarius"/>
@@ -3695,7 +3695,7 @@
 		<match value="st michaels mount">
 			<value value="st michael’s mount"/>
 			<value value="st michael's mount"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sakyasinha">
 		<match value="sakyasinha"/>
@@ -3736,7 +3736,7 @@
 	<search-key-group href="text/glossary.xhtml#saracens">
 		<match value="saracen">
 			<value value="saracens"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sarpedon">
 		<match value="sarpedon"/>
@@ -3745,7 +3745,7 @@
 		<match value="saturn">
 			<value value="cronos"/>
 			<value value="chronos"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#saturnalia">
 		<match value="saturnalia"/>
@@ -3756,7 +3756,7 @@
 	<search-key-group href="text/glossary.xhtml#satyrs">
 		<match value="satyr">
 			<value value="satyrs"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#scaliger">
 		<match value="scaliger"/>
@@ -3794,12 +3794,12 @@
 	<search-key-group href="text/glossary.xhtml#seanymphs">
 		<match value="sea nymph">
 			<value value="sea nymphs"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#seasons">
 		<match value="season">
 			<value value="seasons"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#semele">
 		<match value="semele"/>
@@ -3816,7 +3816,7 @@
 	<search-key-group href="text/glossary.xhtml#serfs">
 		<match value="serf">
 			<value value="serfs"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#seriphus">
 		<match value="seriphus"/>
@@ -3830,12 +3830,12 @@
 	<search-key-group href="text/glossary.xhtml#seven-against-thebes">
 		<match value="seven against thebes">
 			<value value="thebes"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#severn-river">
 		<match value="severn">
 			<value value="severn river"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sevinus">
 		<match value="sevinus"/>
@@ -3912,7 +3912,7 @@
 	<search-key-group href="text/glossary.xhtml#skalds">
 		<match value="skald">
 			<value value="skalds"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#skidbladnir">
 		<match value="skidbladnir"/>
@@ -4031,12 +4031,12 @@
 	<search-key-group href="text/glossary.xhtml#tarpeian-rock">
 		<match value="tarpeian">
 			<value value="tarpeian rock"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tarquins">
 		<match value="tarquin">
 			<value value="tarquins"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tauris">
 		<match value="tauris"/>
@@ -4155,7 +4155,7 @@
 	<search-key-group href="text/glossary.xhtml#titans">
 		<match value="titan">
 			<value value="titans"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tithonus">
 		<match value="tithonus"/>
@@ -4172,7 +4172,7 @@
 	<search-key-group href="text/glossary.xhtml#tournaments">
 		<match value="tournament">
 			<value value="tournaments"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tours">
 		<match value="tours"/>
@@ -4204,7 +4204,7 @@
 	<search-key-group href="text/glossary.xhtml#trojans">
 		<match value="trojan">
 			<value value="trojans"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#trojan-war">
 		<match value="trojan war"/>
@@ -4218,12 +4218,12 @@
 	<search-key-group href="text/glossary.xhtml#troubadours">
 		<match value="troubadour">
 			<value value="troubadours"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#trouveurs">
 		<match value="trouveur">
 			<value value="trouveurs"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#troy">
 		<match value="troy"/>
@@ -4258,7 +4258,7 @@
 	<search-key-group href="text/glossary.xhtml#ulysses-greek">
 		<match value="ulysses">
 			<value value="odysseus"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#unicorn">
 		<match value="unicorn"/>
@@ -4299,7 +4299,7 @@
 	<search-key-group href="text/glossary.xhtml#vedas">
 		<match value="veda">
 			<value value="vedas"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#venedotia">
 		<match value="venedotia"/>
@@ -4307,7 +4307,7 @@
 	<search-key-group href="text/glossary.xhtml#venus-aphrodite">
 		<match value="venus">
 			<value value="aphrodite"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#venus-de-medici">
 		<match value="venus de medici"/>
@@ -4330,7 +4330,7 @@
 	<search-key-group href="text/glossary.xhtml#villains">
 		<match value="villain">
 			<value value="villains"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#vigrid">
 		<match value="vigrid"/>
@@ -4356,7 +4356,7 @@
 	<search-key-group href="text/glossary.xhtml#volsunga-saga">
 		<match value="volsunga">
 			<value value="volsunga saga"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#vortigern">
 		<match value="vortigern"/>
@@ -4364,7 +4364,7 @@
 	<search-key-group href="text/glossary.xhtml#vulcan-greek">
 		<match value="vulcan">
 			<value value="haephestus"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#vyasa">
 		<match value="vyasa"/>
@@ -4378,7 +4378,7 @@
 	<search-key-group href="text/glossary.xhtml#welsh-language">
 		<match value="welsh">
 			<value value="welsh language"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#western-ocean">
 		<match value="western ocean"/>
@@ -4386,7 +4386,7 @@
 	<search-key-group href="text/glossary.xhtml#winds">
 		<match value="wind">
 			<value value="winds"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#winter">
 		<match value="winter"/>
@@ -4406,7 +4406,7 @@
 	<search-key-group href="text/glossary.xhtml#woodnymphs">
 		<match value="wood nymph">
 			<value value="wood nymphs"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#wotan">
 		<match value="wotan"/>
@@ -4423,7 +4423,7 @@
 	<search-key-group href="text/glossary.xhtml#ygdrasil">
 		<match value="ygdrasil">
 			<value value="yggdrasil"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ymir">
 		<match value="ymir"/>
@@ -4441,7 +4441,7 @@
 		<match value="yspadaden">
 			<value value="yspadaden penkawr"/>
 			<value value="penkawr"/>
-		</match> 
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#zendavesta">
 		<match value="zendavesta"/>
@@ -4465,4 +4465,3 @@
 		<match value="zoroaster"/>
 	</search-key-group>
 </search-key-map>
-
