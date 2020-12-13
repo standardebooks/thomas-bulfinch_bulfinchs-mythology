@@ -5,6 +5,19 @@ abbr.era{
 	font-variant: small-caps;
 }
 
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+#chapter-2-23 footer{
+	text-align: center;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
 [epub|type~="z3998:verse"] header p{
 	text-align: center;
 	font-variant: small-caps;
