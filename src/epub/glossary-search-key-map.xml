@@ -4083,6 +4083,9 @@
 	<search-key-group href="text/glossary.xhtml#thaukt">
 		<match value="thaukt"/>
 	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#thebes">
+		<match value="thebes"/>
+	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#themis">
 		<match value="themis"/>
 	</search-key-group>
