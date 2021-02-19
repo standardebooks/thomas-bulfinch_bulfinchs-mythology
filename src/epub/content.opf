@@ -52,7 +52,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/56644</dc:source>
 		<dc:source>https://archive.org/details/bulfinchsmytholo1913bulf</dc:source>
 		<meta property="se:production-notes">Do NOT allow modernize-spelling changes to the pronunciation guides in glossary.xhtml.</meta>
-		<meta property="se:word-count">329329</meta>
+		<meta property="se:word-count">329316</meta>
 		<meta property="se:reading-ease.flesch">66.37</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Bulfinch%27s_Mythology</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-bulfinch_bulfinchs-mythology</meta>
