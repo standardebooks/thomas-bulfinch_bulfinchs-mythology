@@ -59,7 +59,7 @@
 		<dc:creator id="author">Thomas Bulfinch</dc:creator>
 		<meta property="file-as" refines="#author">Bulfinch, Thomas</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thomas_Bulfinch</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79131465</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79131465</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ill</meta>
@@ -67,7 +67,7 @@
 		<dc:contributor id="artist">Herbert James Draper</dc:contributor>
 		<meta property="file-as" refines="#artist">Draper, Herbert James</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Herbert_James_Draper</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/nr2003023158</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr2003023158</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Marcia Brooks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Brooks, Marcia</meta>
