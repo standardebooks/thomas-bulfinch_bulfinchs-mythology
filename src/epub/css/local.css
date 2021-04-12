@@ -78,29 +78,34 @@ dd + dt{
 	margin-top: 1em;
 }
 
-figure.full-page{
-	break-after: page;
-	break-before: page;
+figure{
 	break-inside: avoid;
-	margin: 0;
-	max-height: 100%;
+	margin: 1em auto;
 	text-align: center;
-}
-
-@supports(display: flex) and (max-height: 100vh){
-	figure.full-page{
-		display: flex;
-		flex-direction: column;
-		max-height: 100vh;
-	}
-
-	figure.full-page img{
-		height: 100%;
-	}
 }
 
 figure img{
 	display: block;
 	margin: auto;
 	max-width: 100%;
+}
+
+figure.full-page{
+	break-after: page;
+	break-before: page;
+	break-inside: avoid;
+	margin: 0;
+	max-height: 100vh;
+	text-align: center;
+}
+
+@supports(display: flex){
+	figure.full-page{
+		display: flex;
+		flex-direction: column;
+	}
+
+	figure.full-page img{
+		height: 100vh;
+	}
 }
