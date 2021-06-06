@@ -33,9 +33,6 @@
 	<search-key-group href="text/glossary.xhtml#acis">
 		<match value="acis"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#acontius">
-		<match value="acontius"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#acrisius">
 		<match value="acrisius"/>
 	</search-key-group>
@@ -59,9 +56,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#aeaea">
 		<match value="aeaea"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#aeetes">
-		<match value="aeetes"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#aegeus">
 		<match value="aegeus"/>
@@ -154,9 +148,6 @@
 	<search-key-group href="text/glossary.xhtml#alcinous">
 		<match value="alcinous"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#alcippe">
-		<match value="alcippe"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#alcmena">
 		<match value="alcmena"/>
 	</search-key-group>
@@ -188,9 +179,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#alpheus">
 		<match value="alpheus"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#althaea">
-		<match value="althaea"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#amalthea">
 		<match value="amalthea"/>
@@ -529,12 +517,6 @@
 	<search-key-group href="text/glossary.xhtml#baal">
 		<match value="baal"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#babylonian-river">
-		<match value="babylonian river"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#bacchanalia">
-		<match value="bacchanalia"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bacchanals">
 		<match value="bacchanals"/>
 	</search-key-group>
@@ -568,9 +550,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bayard">
 		<match value="bayard"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#beal">
-		<match value="beal"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bear-constellation-of">
 		<match value="bear constellation of">
@@ -2008,9 +1987,6 @@
 	<search-key-group href="text/glossary.xhtml#icelos">
 		<match value="icelos"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#icolumkill">
-		<match value="icolumkill"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ida">
 		<match value="ida"/>
 	</search-key-group>
@@ -2976,9 +2952,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#palamedes">
 		<match value="palamedes"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#palatine">
-		<match value="palatine"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pales">
 		<match value="pales"/>
