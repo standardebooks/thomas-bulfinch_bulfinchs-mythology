@@ -1554,7 +1554,7 @@
 		<match value="gemini"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#genghis-khan">
-		<match value="gengis khan"/>
+		<match value="genghis khan"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#genius">
 		<match value="genius"/>
