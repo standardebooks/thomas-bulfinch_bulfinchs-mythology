@@ -19,8 +19,8 @@ footer{
 }
 
 [epub|type~="z3998:verse"] header p{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 [epub|type~="z3998:song"] p,
