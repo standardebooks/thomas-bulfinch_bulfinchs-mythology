@@ -296,7 +296,7 @@
 	<search-key-group href="text/glossary.xhtml#apennines">
 		<match value="apennines"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#aphrodite-see-venus">
+	<search-key-group href="text/glossary.xhtml#aphrodite">
 		<match value="aphrodite"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#apis">
@@ -792,7 +792,7 @@
 			<value value="castalian cave"/>
 		</match>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#castor">
+	<search-key-group href="text/glossary.xhtml#castor-and-pollux-the-dioscuri">
 		<match value="castor">
 			<value value="pollux"/>
 		</match>
@@ -1057,7 +1057,7 @@
 	<search-key-group href="text/glossary.xhtml#danaides">
 		<match value="daughters of danaüs"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#danaus-see-danaides">
+	<search-key-group href="text/glossary.xhtml#danaus">
 		<match value="danaüs"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#daphne">
@@ -1452,7 +1452,7 @@
 	<search-key-group href="text/glossary.xhtml#flosshilda">
 		<match value="flosshilda"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#fortunate-islands-see-elysian-plain">
+	<search-key-group href="text/glossary.xhtml#fortunate-islands">
 		<match value="fortunate islands"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#forum">
@@ -1819,7 +1819,7 @@
 	<search-key-group href="text/glossary.xhtml#hereward-the-wake">
 		<match value="hereward the wake"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#hermes-mercury">
+	<search-key-group href="text/glossary.xhtml#hermes">
 		<match value="hermes">
 			<value value="mercury"/>
 		</match>
@@ -3207,7 +3207,7 @@
 	<search-key-group href="text/glossary.xhtml#portunus">
 		<match value="portunus"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#poseidon-neptune">
+	<search-key-group href="text/glossary.xhtml#poseidon">
 		<match value="poseidon"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#precipice">
@@ -3442,7 +3442,7 @@
 	<search-key-group href="text/glossary.xhtml#samson">
 		<match value="samson"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#sangreal-see-graal">
+	<search-key-group href="text/glossary.xhtml#sangreal">
 		<match value="sangreal"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sappho">
@@ -3940,7 +3940,7 @@
 	<search-key-group href="text/glossary.xhtml#utgard-loki">
 		<match value="utgard-loki"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#uther-pendragon">
+	<search-key-group href="text/glossary.xhtml#uther">
 		<match value="uther"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#uwaine">

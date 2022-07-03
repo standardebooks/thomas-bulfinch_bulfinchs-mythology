@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="glossary.xhtml">
+		<ignore>
+			<code>x-019</code>
+			<reason>ID must be unique to the glossary to prevent collision with the real colophon.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
