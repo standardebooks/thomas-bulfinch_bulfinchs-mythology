@@ -55,7 +55,9 @@
 		<match value="aeacus"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#aeaea">
-		<match value="aeaea"/>
+		<match value="aeaea">
+			<value value="aeaean"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#aegeus">
 		<match value="aegeus"/>
@@ -93,9 +95,7 @@
 		<match value="aethra"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#aetna">
-		<match value="aetna">
-			<value value="etna"/>
-		</match>
+		<match value="aetna"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#agamedes">
 		<match value="agamedes"/>
@@ -892,7 +892,10 @@
 		<match value="cimbri"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cimmeria">
-		<match value="cimmeria"/>
+		<match value="cimmeria">
+			<value value="cimmerian"/>
+			<value value="cimmerians"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cimon">
 		<match value="cimon"/>
@@ -3316,7 +3319,9 @@
 		<match value="rhadamanthus"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#rhapsodist">
-		<match value="rhapsodist"/>
+		<match value="rhapsodist">
+			<value value="rhapsodists"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#rhea">
 		<match value="rhea"/>
