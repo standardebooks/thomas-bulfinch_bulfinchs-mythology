@@ -4060,8 +4060,8 @@
 	<search-key-group href="text/glossary.xhtml#yama">
 		<match value="yama"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#ygdrasil">
-		<match value="ygdrasil"/>
+	<search-key-group href="text/glossary.xhtml#yggdrasil">
+		<match value="yggdrasil"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ymir">
 		<match value="ymir"/>
