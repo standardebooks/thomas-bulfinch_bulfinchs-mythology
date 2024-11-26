@@ -117,3 +117,11 @@ figure.full-page{
 		object-fit: contain;
 	}
 }
+
+@supports(display: grid){
+	figure.full-page{
+		display: grid;
+		grid-template-rows: 1fr auto;
+		max-height: 100%;
+	}
+}
