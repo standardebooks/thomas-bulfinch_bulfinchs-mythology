@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85114965</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:abstract>An American classicist collects and explains myths and legends ranging from those of the ancient Greeks and Romans, through stories of King Arthur, to the legends of Charlemagne.</dc:abstract>
+		<meta property="schema:abstract">An American classicist collects and explains myths and legends ranging from those of the ancient Greeks and Romans, through stories of King Arthur, to the legends of Charlemagne.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/thomas-bulfinch"&gt;Thomas Bulfinch&lt;/a&gt; was an American banker and Latin scholar. &lt;i&gt;Bulfinch’s Mythology&lt;/i&gt; is a posthumous compilation of three volumes published by Bulfinch during his lifetime which were intended to introduce the general reader to the myths and legends of Western Civilization by presenting them in simple prose with occasional commentary by the author. Bulfinch also includes many quotations showing how these stories have been handled by poets and playwrights of later years.&lt;/p&gt;
 			&lt;p&gt;The three original volumes are &lt;i&gt;The Age of Fable&lt;/i&gt; (1855), dealing largely with Greek and Roman mythology but also touching on the mythology of other cultures such as the Indian, Egyptian and Norse myths; &lt;i&gt;The Age of Chivalry&lt;/i&gt; (1858), dealing with Arthurian legend, the Holy Grail and the Mabinogeon; and &lt;i&gt;Legends of Charlemagne&lt;/i&gt; (1863), dealing with the fantastical legends surrounding Charlemagne and his “paladins” such as Orlando, Oliver and Rogero.&lt;/p&gt;
