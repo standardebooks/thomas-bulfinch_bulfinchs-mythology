@@ -32,8 +32,8 @@
 		<dc:title id="title">Bulfinch’s Mythology</dc:title>
 		<meta property="file-as" refines="#title">Bulfinch’s Mythology</meta>
 		<dc:subject id="subject-1">Mythology</dc:subject>
-		<dc:subject id="subject-2">Folklore -- Europe</dc:subject>
-		<dc:subject id="subject-3">Charlemagne, Emperor, 742-814 -- Romances -- Adaptations</dc:subject>
+		<dc:subject id="subject-2">Folklore--Europe</dc:subject>
+		<dc:subject id="subject-3">Charlemagne, Emperor, 742-814--Romances--Adaptations</dc:subject>
 		<dc:subject id="subject-4">Romances</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85089371</meta>
