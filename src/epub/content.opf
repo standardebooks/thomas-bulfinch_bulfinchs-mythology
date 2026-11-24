@@ -53,7 +53,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56644</dc:source>
 		<dc:source>https://archive.org/details/bulfinchsmytholo1913bulf</dc:source>
-		<meta property="schema:wordCount">327694</meta>
+		<meta property="schema:wordCount">327690</meta>
 		<meta property="schema:educationalLevel">66.47</meta>
 		<link href="https://en.wikipedia.org/wiki/Bulfinch%27s_Mythology" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
